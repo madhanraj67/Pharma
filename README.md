@@ -390,9 +390,8 @@ contact.html
 
 ## OUTPUT:
 ![Screenshot 2024-05-13 140904](https://github.com/madhanraj67/Pharma/assets/150319515/3512af67-fa4f-432c-89f6-bc224c2ebade)
-![Screenshot 2024-05-13 140931](https://github.com/madhanraj67/Pharma/assets/150319515/c1fb673c-7bd3-4fbe-957d-435736f9c700)
-![Screenshot (23)](https://github.com/madhanraj67/Pharma/assets/150319515/e3315f58-9d27-409b-8cf5-4760143e20f3)
-![Screenshot (24)](https://github.com/madhanraj67/Pharma/assets/150319515/aefd438c-fca5-4820-b06c-a5257bed7df1)
+![Screenshot (26)](https://github.com/madhanraj67/Pharma/assets/150319515/f13039ca-3da4-4801-b982-2f60f39b995e)
+
 
 
 
