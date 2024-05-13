@@ -27,6 +27,8 @@ Publish the website in the LocalHost.
 
 ## PROGRAM :
 ```
+
+
 home.html
 <!DOCTYPE html>
 <html lang="en">
@@ -104,6 +106,8 @@ home.html
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
+
+
 
 about.html
 
@@ -183,6 +187,8 @@ about.html
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
+
+
 
 product.html
 
@@ -293,6 +299,8 @@ product.html
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
+
+
 
 contact.html
 
