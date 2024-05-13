@@ -391,6 +391,9 @@ contact.html
 ## OUTPUT:
 ![Screenshot 2024-05-13 140904](https://github.com/madhanraj67/Pharma/assets/150319515/3512af67-fa4f-432c-89f6-bc224c2ebade)
 ![Screenshot (26)](https://github.com/madhanraj67/Pharma/assets/150319515/f13039ca-3da4-4801-b982-2f60f39b995e)
+![Uploading Screenshot (27).png…]()
+
+
 
 
 
